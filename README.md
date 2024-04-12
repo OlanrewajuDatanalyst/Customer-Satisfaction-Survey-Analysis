@@ -18,6 +18,8 @@ This dataset encompasses a survey on airline passenger satisfaction. Its purpose
 
 <p align="center" style="margin-bottom: 0px !important;">
 <img src="https://github.com/OlanrewajuDatanalyst/Customer-Satisfaction-Survey-Analysis/blob/main/Airline%20Customer%20Satisfaction%20Survey%202.jpg">
+
+  
 ---
 
 ### Insight:
